@@ -1,8 +1,6 @@
 Live Location Tracker
 *********************
-This is a live location tracker project, taken up during the May 2018 Python Pune Meetup hackathon.
-Please look at the comment titled `Live Location and trip tracking through phone app` in the following link:
-https://github.com/datameet-pune/datameet-pune.github.io/issues/15
+
 
 
 # Development Setup
